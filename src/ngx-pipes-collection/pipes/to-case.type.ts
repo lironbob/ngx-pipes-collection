@@ -1,0 +1,1 @@
+export type toCase = 'camel' | 'capital' | 'constant' | 'inverse' | 'pascal' | 'slug' | 'kebab' | 'snake';
